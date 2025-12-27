@@ -1,2 +1,1 @@
-# noman_ML_DL_ANN_projects
-these projects are just for practice to present in class for learning
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/NOTEBOOK.ipynb)
